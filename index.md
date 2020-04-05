@@ -5,19 +5,11 @@ date: 2020-04-05T05:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  logo: "/uploads/2020/04/05/e8c4bc22-2ab4-4101-8bb1-6e5c47c988ee_200x200.png"
+  navigation: []
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: ''
+    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>q.</strong>"
