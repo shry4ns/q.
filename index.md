@@ -20,7 +20,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>q.</strong>"
+  headline: <strong><img src="/2020/05/04/2020/04/05/IMG_9269.PNG">q.</strong>
   content: 'Bringing customers and stores together in times of social distancing. '
   cta:
     enabled: true
