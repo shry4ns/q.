@@ -34,10 +34,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: "<strong>Allocate permits </strong>as you want."
+  content: Control customer inflow as per your needs to comply with rules in times
+    of crises.
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
