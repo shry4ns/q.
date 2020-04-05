@@ -67,7 +67,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   image:
-    image: "/uploads/2020/04/05/landing.svg"
+    image: "/uploads/2020/04/05/2DF457DD-E3DE-4DFB-B7D4-A67AA77DB293.gif"
     alt_text: ''
   background_image: ''
   headline: ''
