@@ -24,7 +24,7 @@ page_sections:
   content: 'Bringing customers and stores together in times of social distancing. '
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://github.com/shry4ns/q./
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
