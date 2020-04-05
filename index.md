@@ -78,7 +78,7 @@ page_sections:
   image:
     image: "/uploads/2020/04/05/IMG_9269.PNG"
     alt_text: ''
-  background_image: ''
+  background_image: "/uploads/2018/06/21/drone-photo.jpeg"
   headline: ''
   content: ''
   cta:
