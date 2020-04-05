@@ -19,7 +19,7 @@ fields:
     label: Image
     config:
       maxSize: ''
-    default: "/uploads/2020/04/05/customer single vendor confirm.svg"
+    default: "/uploads/2020/04/05/landing.svg"
   - type: text
     name: alt_text
     label: Alt Text
