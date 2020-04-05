@@ -67,7 +67,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   image:
-    image: "/uploads/2020/04/05/q mockup for the COVID Design Comp.mov"
+    image: "/uploads/2020/04/05/customer single vendor confirm.svg"
     alt_text: ''
   background_image: ''
   headline: ''
