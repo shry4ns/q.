@@ -67,7 +67,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   image:
-    image: "/uploads/2018/06/21/forestry-symbol.svg"
+    image: "/uploads/2020/04/05/q mockup for the COVID Design Comp.mov"
     alt_text: ''
   background_image: ''
   headline: ''
