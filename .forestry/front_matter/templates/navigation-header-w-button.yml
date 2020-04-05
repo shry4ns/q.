@@ -17,10 +17,10 @@ fields:
   fields:
   - type: text
     name: link
-    label: link
+    label: About
   - type: text
     name: link_text
-    label: Link text
+    label: Team
   config:
     labelField: link_text
 - type: field_group
