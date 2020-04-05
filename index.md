@@ -29,7 +29,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/2020/05/04/2018/06/21/forestry-symbol.svg"
+  background_image: "/2020/05/04/2020/04/05/IMG_9269.PNG"
 - template: content-feature
   block: feature-1
   media_alignment: Left
