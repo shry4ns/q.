@@ -29,7 +29,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2020/04/05/IMG_9269.PNG"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -73,18 +73,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by shryans and will
-- template: hero-banner-w-image
-  block: hero-2
-  image:
-    image: "/uploads/2020/04/05/IMG_9269.PNG"
-    alt_text: ''
-  background_image: "/uploads/2018/06/21/drone-photo.jpeg"
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 
 ---
 foo bar
