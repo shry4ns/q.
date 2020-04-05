@@ -19,7 +19,7 @@ fields:
     label: Image
     config:
       maxSize: ''
-    default: "/uploads/2020/04/05/q mockup for the COVID Design Comp.mov"
+    default: "/uploads/2020/04/05/customer single vendor confirm.svg"
   - type: text
     name: alt_text
     label: Alt Text
