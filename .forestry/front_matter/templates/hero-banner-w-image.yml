@@ -19,7 +19,7 @@ fields:
     label: Image
     config:
       maxSize: ''
-    default: "/uploads/2020/04/05/landing.svg"
+    default: "/uploads/2020/04/05/2DF457DD-E3DE-4DFB-B7D4-A67AA77DB293.gif"
   - type: text
     name: alt_text
     label: Alt Text
