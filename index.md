@@ -21,7 +21,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>q.</strong>"
-  content: Bridging the gap between stores and consumers
+  content: 'Bringing customers and stores together in times of social distancing. '
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
