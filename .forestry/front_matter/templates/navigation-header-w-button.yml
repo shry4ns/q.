@@ -10,6 +10,7 @@ fields:
 - type: file
   name: logo
   label: Logo
+  default: "/uploads/2020/04/05/e8c4bc22-2ab4-4101-8bb1-6e5c47c988ee_200x200.png"
 - type: field_group_list
   name: navigation
   label: Navigation
