@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2020-04-05 00:00:00 -0500
+date: 2020-04-05T05:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -73,6 +73,18 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by shryans and will
+- template: hero-banner-w-image
+  block: hero-2
+  image:
+    image: "/uploads/2020/04/05/IMG_9269.PNG"
+    alt_text: ''
+  background_image: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
 foo bar
