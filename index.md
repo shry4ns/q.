@@ -73,6 +73,18 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by shryans and will
+- template: hero-banner-w-image
+  block: hero-2
+  image:
+    image: "/uploads/2018/06/21/forestry-symbol.svg"
+    alt_text: ''
+  background_image: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
 foo bar
